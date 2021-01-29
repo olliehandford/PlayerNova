@@ -1,5 +1,7 @@
-# PlayerNova
-We keep players accountable for their actions
+# 🕹️ PlayerNova
+We keep players accountable for their actions.
+
+This is an old and unfinished project in Laravel and NodeJS to track player bans across multiple servers, and allow gaming communities to share information on bad players (e.g Hackers) via SteamIDs.
 
 ## How to setup
 
