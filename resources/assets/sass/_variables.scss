@@ -1,0 +1,22 @@
+////////////////////////////////////////////////
+// LUMEN
+////////////////////////////////////////////////
+@import "./node_modules/bulma/sass/utilities/initial-variables";
+
+$orange: #ff851b;
+$green: #28b62c;
+$blue: #5bb7db;
+$red: #ff4136;
+
+$primary: #1488CC !default;
+
+$info-invert: black;
+
+$family-sans-serif: 'Poppins', 'Helvetica Neue', Helvetica, Arial,
+  sans-serif;
+
+$thickness: 4px;
+
+$pagination-current-border: darken($primary, 5);
+
+$navbar-height: 4.25rem;
